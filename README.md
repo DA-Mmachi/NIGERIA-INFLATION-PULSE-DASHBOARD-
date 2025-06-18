@@ -1,5 +1,18 @@
 # Nigeria's Inflation Pulse (2010–2024): Tracking Oil Prices, Exchange Rates & Policy Impact
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Tools](#data-tools)
+- [Data Cleaning/Preperation](#data-cleaning--preperation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis Approach](#data-analysis-approach)
+- [Results/Findings](#results--findings)
+- [Recommendations](#recommendations)
+- [References](#references)
+- [Author Information](#author-information)
+  
 ## Project Overview
 ---
 ####  Nigeria has been dealing with high inflation for years, but many people don’t fully understand what is causing it or how it affects the economy. This project uses data and a dashboard to explain how different economic factors like oil prices, exchange rates, and interest rates have influenced inflation in Nigeria from 2010 to 2024. Amid rising inflation and economic reforms, this dashboard was built to answer a critical policy and economic question, "What is driving inflation in Nigeria, and what has changed over the years?
