@@ -62,13 +62,13 @@ The data for this project was sourced from credible, publicly available platform
 - How did inflation behave during oil price crashes and reforms? ![Screenshot 2025-06-18 164031](https://github.com/user-attachments/assets/4c37c7f0-26aa-4cd7-9b72-4082512bbbb5)
 
 
-- Did naira losing value make the inflation worse? [Results/Findings](results--findings)
+- Did naira losing value make the inflation worse? [Results/Findings](#results--findings)
 
-- Did higher MPR control inflation effectively? [Results/Findings](results--findings)
+- Did higher MPR control inflation effectively? [Results/Findings](#results--findings)
 
-- How strong is the correlation between oil prices and inflation? [Results/Findings](results--findings)
+- How strong is the correlation between oil prices and inflation? [Results/Findings](#results--findings)
 
-- Which macro variables showed the strongest predictive trend ie which factor seems to affect inflation the most?[Results/Findings](results--findings) 
+- Which macro variables showed the strongest predictive trend ie which factor seems to affect inflation the most?[Results/Findings](#results--findings) 
 
   ## Data Analysis Approach
 
