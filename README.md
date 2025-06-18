@@ -11,6 +11,7 @@
 - [Results/Findings](#results--findings)
 - [Recommendations](#recommendations)
 - [References](#references)
+- [Limitations](#limitations)
 - [Author Information](#author-information)
   
 ## Project Overview
@@ -31,13 +32,13 @@ The data for this project was sourced from credible, publicly available platform
 
   ## Data Tools
 
-1. Microsoft Excel - For dashboard creation, data visualization, slicer interactivity
+ - Microsoft Excel - For dashboard creation, data visualization, slicer interactivity
   
-2. Pivot Tables - Metric aggregation and summary computation ie analyzing data
+ -  Pivot Tables - Metric aggregation and summary computation ie analyzing data
   
-3. Excel Charts - Line charts, combo charts, scatter plots for trend correlation and showing reltionships
-  
-4. Slicers - For selecting diffrent years interactively
+ - Excel Charts - Line charts, combo charts, scatter plots for trend correlation and showing reltionships
+
+ - Slicers - For selecting diffrent years interactively
 
 ## Data Cleaning / Preperation
 
@@ -111,6 +112,13 @@ Based on the analysis, here are some actionable suggestions:
 - National Bureau of Statistics (NBS)
 
 - World Bank Data Bank
+
+  ## Limitations
+
+- The analysis uses annual data, which limits short-term trend detection.
+- Focused only on key macroeconomic indicators; fiscal and structural factors were not included.
+- Policy impacts may take time to reflect, and lag effects may not be fully captured.
+- Built in Excel for accessibility; advanced modeling is outside the scope.
 
   ## Author Information
 ### Mmachi Goodness Paul-Emeka
