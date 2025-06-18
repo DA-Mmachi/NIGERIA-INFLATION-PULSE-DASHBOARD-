@@ -137,6 +137,6 @@ Based on the analysis, here are some actionable suggestions:
  ### Thanks for checking out this project! Feel free to reach out:
 
 -  Email:
-[mmachipaulemeka@gmail.com](mailto:mmachipaulemeka@gmail.com)
+[mmachipaulemeka@gmail.com](mmachipaulemeka@gmail.com)
 -  Linkedin:
 [Mmachi Goodness Paul- Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka)
