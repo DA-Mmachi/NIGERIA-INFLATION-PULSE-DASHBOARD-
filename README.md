@@ -18,6 +18,11 @@
 ---
 ####  Nigeria has been dealing with high inflation for years, but many people don’t fully understand what is causing it or how it affects the economy. This project uses data and a dashboard to explain how different economic factors like oil prices, exchange rates, and interest rates have influenced inflation in Nigeria from 2010 to 2024. Amid rising inflation and economic reforms, this dashboard was built to answer a critical policy and economic question, "What is driving inflation in Nigeria, and what has changed over the years?
 
+[Dashboard](Nigeria's Inflation Pulse Dashboard)
+
+![Screenshot 2025-06-18 162703](https://github.com/user-attachments/assets/5a56cc10-f384-4c19-b2a8-48aace747d6c)
+
+
 ## Data Sources
 
 The data for this project was sourced from credible, publicly available platforms:
@@ -54,15 +59,16 @@ The data for this project was sourced from credible, publicly available platform
 
   ## Exploratory Data Analysis
 
-- How did inflation behave during oil price crashes and reforms?
+- How did inflation behave during oil price crashes and reforms? ![Screenshot 2025-06-18 164031](https://github.com/user-attachments/assets/4c37c7f0-26aa-4cd7-9b72-4082512bbbb5)
 
-- Did naira losing value make the inflation worse?
 
-- Did higher MPR control inflation effectively?
+- Did naira losing value make the inflation worse? [Result/Findings](result---findings)
 
-- How strong is the correlation between oil prices and inflation?
+- Did higher MPR control inflation effectively? [Result/Findings](result---findings)
 
-- Which macro variables showed the strongest predictive trend ie which factor seems to affect inflation the most?
+- How strong is the correlation between oil prices and inflation? [Result/Findings](result---findings)
+
+- Which macro variables showed the strongest predictive trend ie which factor seems to affect inflation the most?[Result/Findings](result---findings) 
 
   ## Data Analysis Approach
 
@@ -92,6 +98,9 @@ Here’s how I anaswered these questions:
 - Inflation vs Oil Price: Weak correlation during 2015–2020 (R² = 0.13), stronger post-2021 (R² = 0.71) due to subsidy reform and fuel price hike. ie to say that oil prices didn't have much impact on inflation between 2015-2020 inflation was affected by other factors.But from 2021, when fuel subsidies were removed, inflation rose showing that fuel price changes started to affect inflation more.
 
 - Inflation Trend: Inflation remained moderate before 2015, spiked in 2016, and sharply increased from 2022 to 2024. That is to say that Inflation was low before 2015,increased after the oil crash,stayed unstable during COVID, and spiked again from 2022-2024 due to reforms and subsidy removal.
+
+- Exchange rate affects inflation the most based on this analysis as the naria weakens (₦/$ increases), imported goods and fuel became more expensive. Nigeria depends heavily on imports, so a weak naira quickly drives up prices across the economy. This was especially clear in 2023 and 2024 after currency reforms. ![Screenshot 2025-06-18 165445](https://github.com/user-attachments/assets/b70e4966-4194-4f1e-80b2-fdd105d08f47)
+
 
   ## Recommendations
 
@@ -123,4 +132,11 @@ Based on the analysis, here are some actionable suggestions:
   ## Author Information
 ### Mmachi Goodness Paul-Emeka
 ### Economist | Data Analyst | Excel & Power BI Specialist
-  
+
+
+ ### Thanks for checking out this project! Feel free to reach out:
+
+-  Email:
+[mmachipaulemeka@gmail.com](mailto:mmachipaulemeka@gmail.com)
+-  Linkedin:
+[Mmachi Goodness Paul- Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka)
