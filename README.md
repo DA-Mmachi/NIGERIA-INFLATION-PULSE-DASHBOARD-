@@ -103,7 +103,7 @@ There was a Weak correlation during 2015–2020 (R² = 0.13) and a stronger post
 - Inflation Trend: Inflation remained moderate before 2015, spiked in 2016, and sharply increased from 2022 to 2024. That is to say that Inflation was low before 2015,increased after the oil crash,stayed unstable during COVID, and spiked again from 2022-2024 due to reforms and subsidy removal.
 
 - ##### EXCHANGE RATE 
-Exchange rate affects inflation the most based on this analysis as the naria weakens (₦/$ increases), imported goods and fuel became more expensive. Nigeria depends heavily on imports, so a weak naira quickly drives up prices across the economy. This was especially clear in 2023 and 2024 after currency reforms. ![Screenshot 2025-06-18 165445](https://github.com/user-attachments/assets/b70e4966-4194-4f1e-80b2-fdd105d08f47)
+Exchange rate affects inflation the most based on this analysis as the naria weakens (₦/$ increases), imported goods and fuel became more expensive. Nigeria depends heavily on imports, so a weak naira quickly drives up prices across the economy. This was especially clear in 2023 and 2024 after currency reforms.But it's not the sole cause. Inflation is a result of a complex interaction of monetary, structural, and supply-side factors. ![Screenshot 2025-06-18 165445](https://github.com/user-attachments/assets/b70e4966-4194-4f1e-80b2-fdd105d08f47)
 
 
   ## Recommendations
