@@ -62,13 +62,13 @@ The data for this project was sourced from credible, publicly available platform
 - How did inflation behave during oil price crashes and reforms? ![Screenshot 2025-06-18 164031](https://github.com/user-attachments/assets/4c37c7f0-26aa-4cd7-9b72-4082512bbbb5)
 
 
-- Did naira losing value make the inflation worse? [Results/Findings](#results--findings)
+- Did naira losing value make the inflation worse? [Inflation vs Exchange Rate](#inflation-vs-exchange-rate)
 
-- Did higher MPR control inflation effectively? [Results/Findings](#results--findings)
+- Did higher Monetary policy rate control inflation effectively? [Inflation vs MPR](#inflation-vs-mpr)
 
-- How strong is the correlation between oil prices and inflation? [Results/Findings](#results--findings)
+- How strong is the correlation between oil prices and inflation? [Inflation vs Oil price](#inflation-vs-oil-price)
 
-- Which macro variables showed the strongest predictive trend ie which factor seems to affect inflation the most?[Results/Findings](#results--findings) 
+- Which macro variables showed the strongest predictive trend ie which factor seems to affect inflation the most?[EXCHANGE RATE](#exchange-rate) 
 
   ## Data Analysis Approach
 
@@ -91,15 +91,19 @@ Here’s how I anaswered these questions:
 
 ## Results / Findings
 
-- Inflation vs Exchange Rate: ₦ devaluation triggered inflation spikes, especially post-2023 FX reform. Strong pass-through effect observed.This means that as the naira became weaker (₦/$ went up), inflation rose sharply especially in 2023 and 2024. This shows that a weaker currency made things more expensive.
+- ##### Inflation vs Exchange Rate
+Yes it made inflation worse. ₦ devaluation triggered inflation spikes, especially post-2023 FX reform. Strong pass-through effect observed.This means that as the naira became weaker (₦/$ went up), inflation rose sharply especially in 2023 and 2024. This shows that a weaker currency made things more expensive.
 
-- Inflation vs MPR: Despite rising interest rates, inflation kept increasing → suggests cost-push inflation. This means that inflation wasn't just caused by too much money it was also due to higher cost of goods and services.
+- ##### Inflation vs MPR:
+  No it did not control inflation. Despite rising interest rates, inflation kept increasing which suggests cost-push inflation. This means that inflation wasn't just caused by too much money it was also due to higher cost of goods and services.
 
-- Inflation vs Oil Price: Weak correlation during 2015–2020 (R² = 0.13), stronger post-2021 (R² = 0.71) due to subsidy reform and fuel price hike. ie to say that oil prices didn't have much impact on inflation between 2015-2020 inflation was affected by other factors.But from 2021, when fuel subsidies were removed, inflation rose showing that fuel price changes started to affect inflation more.
+- ##### Inflation vs Oil Price:
+There was a Weak correlation during 2015–2020 (R² = 0.13) and a stronger post-2021 (R² = 0.71) due to subsidy reform and fuel price hike. ie to say that oil prices didn't have much impact on inflation between 2015-2020 inflation was affected by other factors.But from 2021, when fuel subsidies were removed, inflation rose showing that fuel price changes started to affect inflation more.
 
 - Inflation Trend: Inflation remained moderate before 2015, spiked in 2016, and sharply increased from 2022 to 2024. That is to say that Inflation was low before 2015,increased after the oil crash,stayed unstable during COVID, and spiked again from 2022-2024 due to reforms and subsidy removal.
 
-- Exchange rate affects inflation the most based on this analysis as the naria weakens (₦/$ increases), imported goods and fuel became more expensive. Nigeria depends heavily on imports, so a weak naira quickly drives up prices across the economy. This was especially clear in 2023 and 2024 after currency reforms. ![Screenshot 2025-06-18 165445](https://github.com/user-attachments/assets/b70e4966-4194-4f1e-80b2-fdd105d08f47)
+- ##### EXCHANGE RATE 
+Exchange rate affects inflation the most based on this analysis as the naria weakens (₦/$ increases), imported goods and fuel became more expensive. Nigeria depends heavily on imports, so a weak naira quickly drives up prices across the economy. This was especially clear in 2023 and 2024 after currency reforms. ![Screenshot 2025-06-18 165445](https://github.com/user-attachments/assets/b70e4966-4194-4f1e-80b2-fdd105d08f47)
 
 
   ## Recommendations
