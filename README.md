@@ -20,7 +20,7 @@
 
 [Dashboard](Nigeria's Inflation Pulse Dashboard)
 
-![Screenshot 2025-06-18 162703](https://github.com/user-attachments/assets/5a56cc10-f384-4c19-b2a8-48aace747d6c)
+![Nigeria's Inflation Pulse Dashboard]()
 
 
 ## Data Sources
